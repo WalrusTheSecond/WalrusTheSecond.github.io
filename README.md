@@ -7,4 +7,5 @@ I’m passionate about **software development, algorithms, and full-stack applic
 I’m always exploring new technologies and refining my programming skills. Feel free to check out my projects and connect with me!  
 
 Contact: ewwall@gmail.com
+
 LinkedIn: [Evan Wallace](https://www.linkedin.com/in/evan-wallace-7a5a90351/)
